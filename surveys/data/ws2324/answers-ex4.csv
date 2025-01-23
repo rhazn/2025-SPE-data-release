@@ -1,0 +1,28 @@
+﻿"id","submitdate","lastpage","startlanguage","seed","P1","P2","E1","E2","E3","F1","F2"
+"1","1980-01-01 00:00:00","1","en","1283414296","A1","A1","10","A4","A4","The main problem I got stuck in was the data separation because the data is separated with "";"" and also column wise. ",""
+"2","1980-01-01 00:00:00","1","en","2114066247","A1","A1","2","A4","A4","",""
+"3","1980-01-01 00:00:00","1","en","16510241","A2","A1","2","A3","A4","","Javyee supports deletion of columns but not column selection. I had to use ColumnDeleter and CellRangeSelector to select the desired column. It would be great if there is a block for selecting the required columns."
+"4","1980-01-01 00:00:00","1","en","1550986546","A2","A1","3","A3","A4","I found no easy way to rename columns inplace without creating a new column. header = true should let us use a statement, where we can rename the matched column, like ""Hersteller"" oftype text, should be used ""Hersteller"" oftype text as ""Herstelleralternativename"", 
+Or TableTransformer should use a way to rename the column and not create a new one with a boolean. Like inplace=true. Also more inputs and more outputs can be adventagues if you have multiple columns you can modify with a single transform",""
+"6","1980-01-01 00:00:00","1","en","1039293268","A2","A1","2","A3","A3","Needed a minute to understand how to use ColumnDeleter for multiple columns. A second example in the docs would be nice. 
+
+The code block:
+    transform CelsiusToFahrenheit {
+        from Celsius oftype decimal;
+        to Fahrenheit oftype decimal;
+        Fahrenheit: (Celsius * 9/5) + 32;
+    }
+
+was not possible with a custom oftype. I wanted to make sure the temperatures where reasonable. It was still possible by checking the original Celsius values. It would be cool to support custom valuetypes in transforms. Maybe it is possible and I just couldn't figure it out :) 
+I got the error message: The value needs to be of type ValidTemperature but is of type decimal.",""
+"7","1980-01-01 00:00:00","1","en","365527900","A1","A1","7","A5","A4","",""
+"8","1980-01-01 00:00:00","1","en","739090751","A2","A1","2","A3","A3","Writing basically the same block twice for the TableTransformer. I would prefer the option to pass the input columns and output column as some type of argument rather than copying and pasting the block.","see above"
+"9","1980-01-01 00:00:00","1","en","749754919","A1","A1","3","A3","A4","",""
+"11","1980-01-01 00:00:00","1","en","774305608","A2","A1","3","A4","A4","",""
+"12","1980-01-01 00:00:00","1","en","1191513628","A2","A1","2","A4","A4","",""
+"15","1980-01-01 00:00:00","1","en","1044635100","A2","A1","2","A2","A5","I didn't know how to do two things at a time with one function. For example, rename two cell headers in one block, i don't know how to do that, so I had to write two blocks separately. Similarly like TableTransformer, I had to write 2 CelsiusToFahrenheittransformer blocks for two columns, because i don't know how to put them in one block. Didn't find examples like this.",""
+"16","1980-01-01 00:00:00","1","en","1711933374","A2","A1","16","A5","A4","The jayvee had some bad structure of pipeline. For example, to change the name of column, I had to define the same thing twice.","idk"
+"17","1980-01-01 00:00:00","1","en","1502371809","A1","A1","2","A3","A5","",""
+"18","1980-01-01 00:00:00","1","en","1104031436","A1","A1","1","A4","A3","the datasets are not easy to extract.","pandas"
+"19","1980-01-01 00:00:00","1","en","33469617","A2","A1","2","A3","A3","",""
+

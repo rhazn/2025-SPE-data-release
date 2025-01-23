@@ -1,0 +1,10 @@
+# What language features or libraries would have made solving the exercise easier?
+
+## Jayvee
+
+Richer options to select or delete columns. I think it would decrease work time and increase the clarity of the pipeline.
+-----------
+## Python
+
+None, the features exist and are pretty straight forward, finding them is the problem :)
+-----------

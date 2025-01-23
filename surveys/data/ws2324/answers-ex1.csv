@@ -1,0 +1,73 @@
+﻿"id","submitdate","lastpage","startlanguage","seed","P1","P2","E1","E2","E3","F1","F2"
+"1","1980-01-01 00:00:00","1","en","1447819776","A1","A1","0.5","A2","A4","no problems, easy to use",""
+"2","1980-01-01 00:00:00","1","en","151650278","A1","A1","0.5","A3","A4","No Problem","So far, seems like pandas made everything easier."
+"5","1980-01-01 00:00:00","1","en","1100400425","A1","A1","3","A4","A4","I started the implementation with help by the sqlalchemy v2 docs and had to change everything to v1, because the actions use an older version. In addition, the docs for sqlalchemy are very confusing.","maybe a referenced guide on how to use the sqlalchemy library."
+"6","1980-01-01 00:00:00","1","en","2105900330","A2","A1","3","A3","A3","As Jayvee is new for me, I have to go through the documents first.",""
+"7","1980-01-01 00:00:00","1","en","1676103413","A2","A1","3","A3","A4","Its a quite new programming language but I need more documentation and support to learn more about this language. I know this is basic implementation to solve the exercises but I case in future i want use this language then it will great language.","I used sample example available in documentation to solve this exercise. "
+"8","1980-01-01 00:00:00","1","en","1263876825","A2","A1","1","A2","A4","","Easy syntax and good documentation of the language."
+"9","1980-01-01 00:00:00","1","en","1808635384","A2","A1","2","A3","A4","Nothing. I just need some time to learn about it.","Nothing."
+"11","1980-01-01 00:00:00","1","en","79909733","A2","A1","5","A3","A4","None","None"
+"12","1980-01-01 00:00:00","1","en","131430498","A1","A2","3","A4","A3","",""
+"13","1980-01-01 00:00:00","1","en","940875796","A2","A1","4","A4","A3","",""
+"17","1980-01-01 00:00:00","1","en","151908834","A2","A1","1","A2","A4","",""
+"18","1980-01-01 00:00:00","1","en","1762676570","A1","A1","2","A3","A3","Getting Familiar with the packages","SQLAlchemy and pandas "
+"20","1980-01-01 00:00:00","1","en","1149692640","A1","A1","3","A3","A2","No problems.","-"
+"21","1980-01-01 00:00:00","1","en","1888480533","A2","A1","2","A4","A4","New form of programming, javee is new to me.","none, it was clear, even better with the example in the javee github."
+"22","1980-01-01 00:00:00","1","en","1767722941","A1","A2","20","A5","A3","It takes time to understand the examples. The way the ex1 and project plan are presented makes it difficult to understand. I think creating a GitHub issue for this would be better than using Google Docs.","Maybe you can add all of the depency in already,better than to lose a lot of time searching what is wrong in the app"
+"23","1980-01-01 00:00:00","1","en","96086400","A2","A1","1","A3","A3","the VsCode extension needs improvements to give proper suggestions and there is little documentation available which needs to be improved","it was a simple task no need for extra libraries in this"
+"24","1980-01-01 00:00:00","1","en","891453333","A2","A1","40","A5","A3","Installation, syntax","python, pandas"
+"25","1980-01-01 00:00:00","1","en","582450480","A1","A2","1","A2","A4","None","No answer"
+"26","1980-01-01 00:00:00","1","en","1316132560","A2","A1","4","A4","A3","Firstly difficulties in the setup but that was mainly due to the npm (having to change the version). Installing jayvee was straightforward. Also the YouTube video helped.
+","For the first exercise it was ok. The only small problem is that we need to look at the data to know the separator and make no mistake but I guess that is part of learning curve. Overall I think it good.  "
+"27","1980-01-01 00:00:00","1","en","612755007","A2","A1","1","A3","A3","",""
+"28","1980-01-01 00:00:00","1","en","944408278","A1","A1","2","A3","A3","-",""
+"29","1980-01-01 00:00:00","1","en","621278698","A2","A1","1","A2","A4","",""
+"32","1980-01-01 00:00:00","1","en","2029198128","A2","A1","5","A3","A3","Debugging individual parts of pipeline and unavailability of helpful resources.",""
+"33","1980-01-01 00:00:00","1","en","239982298","A1","A1","1","A2","A3","None, but I already knew Python and Pandas. ","I originally wanted to create the database using SQLAlchemy-Utils instead of pandas, which wasn't possible, because it is not included. Since SQLAlchemy is allowed, I think it would be a good idea to also include it. However retrospectively it was probably easier to use pandas anyway.  "
+"34","1980-01-01 00:00:00","1","en","1652083436","A2","A1","1","A2","A4","Right now all things going smoothly but in the future, I will get anything I am willing to share with you.
+Need to make clear documentation.
+I'm planning to make my project pipeline using Jayvee, I think I will face a real scenario in my project.",""
+"35","1980-01-01 00:00:00","1","en","1932091128","A2","A1","8","A4","A4","Jayvee is a new programming language, therefore many things are still confusing to me, for example: I became confused when learning it from the resources you provided, and even after executing the script multiple times, I was unable to eliminate all of the issues. Then I used cars.jv and other examples as a reference for my exercise, and I was able to delete the inaccuracies as a result. I wasn't sure how much time I spent on the exercise, but I'm sure it took me many days to figure out the basics of Jayvee and other things.",""
+"37","1980-01-01 00:00:00","1","en","941871156","A1","A1","2","A4","A3","",""
+"38","1980-01-01 00:00:00","1","en","1586447157","A2","A1","1","A3","A4","","Ive been having problem downloading the datafile directly from kaggle cuz i have to authenticate myself first with Key n then download the file. i am not sure how can i solve this problem using JV. If there is anything in documentation which can solve the problem please let me know i would love to try it 
+Thanks, "
+"39","1980-01-01 00:00:00","1","en","1866617223","A2","A1","1","A3","A5","Understanding the code ",""
+"40","1980-01-01 00:00:00","1","en","1543859057","A2","A1","5","A4","A3","Had to set the delimeter which was bit confusing.","Python"
+"41","1980-01-01 00:00:00","1","en","20489309","A1","A1","10","A4","A4","mostly problems with technical setting. e.g. 1) python version in VS Code is older than the python version installed in system; 2) while importing the library such as SQLalchemy, VS Code said such module not found (something like this), tried long and couldn't solve it. but at the end it didn't matter, i could still use the library.",""
+"42","1980-01-01 00:00:00","1","en","931376570","A2","A1","3","A4","A4","",""
+"43","1980-01-01 00:00:00","1","en","1311651191","A1","A1","1","A3","A3","Python is easy to use  and because of the general freedom that one is given about the structure of the code (and in this case the pipeline) generally, the building of the pipeline was rather simple. BUT, I feel like building a structure that nicely represents a pipeline is harder, since I could not find a representing datastructure (could be my fault though). Consequently it is more or less just a sequential call of functions. One could cascade the function calls in each other to give a feel of a pipeline, but the resulting code could become a bit messy like this.
+I am very interested how Jayvee code looks that solves the same problem and if the pipeline structure seems to be more present in the code itself.",""
+"44","1980-01-01 00:00:00","1","en","322867421","A1","A1","1","A4","A3","",""
+"45","1980-01-01 00:00:00","1","en","1383015175","A2","A1","2","A2","A3","no debugging possibility found, would be nice to see some steps inbetween (e.g. for checking new value types) for  for example with the vscode plugin.","snippets, e.g. snippet for block, pipeline, valuetype, constraint (with shortkey Ctrl+Space)"
+"47","1980-01-01 00:00:00","1","en","1096170337","A1","A1","2","A4","A3","With Python, no problems encountered. Maybe it just took me some time to realize that some steps can be done Pandas and not SQLAlchemy.
+Also, enforcing specific Datatypes was not clear for me. As I had one run without changing or enforcing the Datatypes and I could see that the given Dataset has already the Desired Datatypes listed in the Exercise. But then I realized that for completeness purposes it would be better to enforce the Datatypes.
+
+Also, the Git Test has been passed without the enforcmenet of the Datatypes.",""
+"48","1980-01-01 00:00:00","1","en","277458255","A1","A1","3","A4","A3","To download the data, I thought, traditionally you establish a connection and then do a GET request to obtain the response from certail URI. So, I struggled with it. But then I googled a lot and found out the there is a nice function of pandas which handles it automatically. 
+
+Apart from that everything went smooth for me.","I think the current libraries are sufficient for this task only. I cannot say for further exercises."
+"49","1980-01-01 00:00:00","1","en","538291115","A2","A1","1","A3","A4","I did not faced any problem in coding but I faced some issue to install jayvee due to the node version issue. 
+",""
+"50","1980-01-01 00:00:00","1","en","250771889","A2","A1","4","A4","A3","there were some errors while runnign jayvee in the VS Code terminal had to manually use the windows terminal seperately to run the script",""
+"51","1980-01-01 00:00:00","1","en","1002175560","A2","A1","1","A3","A3","I wouldn't say problems since it was relatively easy exercise. But obviously coming from other programming languages, there is a learning curve to it.","It was relatively easier to solve so I can't add anything for this section. But coming from python background I will lean towards python functions and libraries. But I hope to learn and move forward with Jayvee in the coming exercises. "
+"52","1980-01-01 00:00:00","1","en","244235259","A2","A1","2","A3","A4","It is pretty easy to follow, would be great if the documentation of Jayvee could show more examples. It should have taken me less time to solve the exercise, but I am generally new to VStudio and Github so the time spent somewhere apart from Jayvee itself. Would be great if I could use Jayvee in PyCharm etc. (Sorry that I am not very familiar with programming)",""
+"53","1980-01-01 00:00:00","1","en","1809482813","A1","A1","2","A4","A3","",""
+"54","1980-01-01 00:00:00","1","en","1639115188","A2","A1","3","A4","A4","",""
+"56","1980-01-01 00:00:00","1","en","1110586766","A2","A1","1","A3","A4","Firstly combining the different Blocks in Jayvee that every block output serves as new input was bit unituitive combining to other programming languages.","Propably different Codeexamples maybe, but in general the documentation is clear"
+"57","1980-01-01 00:00:00","1","en","2008129835","A1","A1","2","A3","A3","",""
+"59","1980-01-01 00:00:00","1","en","244727184","A1","A1","4","A3","A4","",""
+"60","1980-01-01 00:00:00","1","en","1708156113","A1","A1","2","A3","A3","Nothing wrong with python. It offers variety of libraries to do the work,","It suggested to use only the libraries mentioned in requirememts.txt. It has sql alchemy to connect to sql lite. But we can other easier solutions like simple connecting to sql lite or using postgres library in python. To use SQL alchemy, you need to create classes and objects which would be for a specific  purpose but for data engineering I think we can explore other options."
+"61","1980-01-01 00:00:00","1","en","1653794029","A2","A1","2","A3","A4","I did not encounter any problems with this first exercise","Because I personally didn't find the exercise to be difficult, I don't think any libraries or features would have made it easier, since it was quite straight-forward"
+"63","1980-01-01 00:00:00","1","en","29569389","A1","A1","6","A5","A4","simply missing knowledge, I've felt not gaining from the lectures in advance. I preferer to talk about a topic first and then get the exercise and not the other way arround.","the given features and libraries were good, no need for further packages. "
+"64","1980-01-01 00:00:00","1","en","1426053420","A1","A1","3","A2","A3","-- optionally was exploring incremental load ingestion with pandas, SQLalchemy libraries
+",""
+"65","1980-01-01 00:00:00","1","en","932224866","A1","A1","1","A3","A4","",""
+"66","1980-01-01 00:00:00","1","en","1801090480","A2","A1","2","A3","A3","CSV interpreter can apply only one delimiter.I could not seperate multiple lines having different seperators.","Python"
+"67","1980-01-01 00:00:00","1","en","202003600","A1","A1","3","A3","A3","","pandas and sqlalchemy"
+"68","1980-01-01 00:00:00","1","en","440107087","A1","A1","1","A4","A4","",""
+"69","1980-01-01 00:00:00","1","en","688119881","A1","A1","2","A4","A3","",""
+"70","1980-01-01 00:00:00","1","en","562368970","A1","A1","1","A3","A3","",""
+"71","1980-01-01 00:00:00","1","en","1352229292","A1","A1","1","A4","A5","",""
+"72","1980-01-01 00:00:00","1","en","304414258","A1","A1","1","A4","A4","",""
+"73","1980-01-01 00:00:00","1","en","583864268","A2","A1","3","A4","A4","",""
+

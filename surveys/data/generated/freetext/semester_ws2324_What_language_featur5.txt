@@ -1,0 +1,16 @@
+# What language features or libraries would have made solving the exercise easier?
+
+## Jayvee
+
+Extracting and picking file. It has a lot less boiler plate compared to python. And I feel data people really like this feature as they want these steps to work out of the box so that they  can focus on analysis part.
+
+Also constraint was quiet similar. Easy and clean to set them. Really liked it.
+-----------
+Documentations and easy syntext
+-----------
+Feature to look at intermediate outputs and debug the code
+-----------
+## Python
+
+Nothing
+-----------

@@ -1,0 +1,48 @@
+﻿"id","submitdate","lastpage","startlanguage","seed","P1","P2","E1","E2","E3","F1","F2"
+"1","1980-01-01 00:00:00","1","en","1841534798","A2","A1","0.75","A3","A3","The jv docu could be better structured and include a whole pipeline example like in the GitHub example folder",""
+"2","1980-01-01 00:00:00","1","de","595793995","A2","A1","0.5","A2","A3","bin überrascht, da ich anfangs doch ziemlich skeptisch war, ob Jayvee überhaupt nötig ist, ist aber tatsächlich extrem einfach und schnell zu erlernen.
+ ","- Jayvee sollte in der Lage sein mittels keyword den optimalen Datentyp selbständig zu bestimmen:
+ z.B.    ""EVA_NR"" oftype auto,
+
+
+"
+"3","1980-01-01 00:00:00","1","en","1495817080","A2","A1","3","A5","A2","",""
+"4","1980-01-01 00:00:00","1","en","506717097","A2","A1","3.25","A2","A4","Not really a problem with the language, just some feedback.
+
+- I didn't use the right node version at the start, but once knowing that it is easy to fix. Maybe for more inexperienced users it would be nice if when running -jv and a error is encountered, jv itself could display a message saying please use node version > xy, you ran this with node version z
+- I noticed that jv automatically considers rows that have ""gaps"", empty cells as faulty. I could think of cases where that would be undesired. (In some tables """" is used instead of 0 for instance) Is there a way to circumvent that default behavior then? I was just wondering.","- I was pleasantly surprised by the ease of use of jv and the good documentation. I think for someone who does not do much programming it will be fairly straight forward. It would be even more awesome if the documentation was somehow distributed with the VS plugin, so one can read it without leaving the IDE.
+- maybe it would be possible to include a ""new file"" template for .jv files in the plugin that already has some sections like 
+// Pipeline declaration (for the neat -> way to define it) 
+// Valuetypes
+// Constraints
+// Blocks 
+Also: I would be interested in what your idea is on a ""nice"" layout of a jv file. A style guideline, so to speak. You could possibly even distribute style rules along with the plugin (Indentation, free lines between blocks, "";"" after every instruction, etc.)."
+"5","1980-01-01 00:00:00","1","de","82561454","A2","A1","4","A4","A3","Mangelhafte Dokumentation von Jayvee. Kein richtiges Debuggen möglich wie in Python.",""
+"6","1980-01-01 00:00:00","1","en","977606134","A1","A1","4.5","A4","A3","Transformation part","None"
+"7","1980-01-01 00:00:00","1","en","1758653994","A1","A1","4","A4","A3","Valid ""IFOPT"" values follow this pattern and setting SQL types",""
+"9","1980-01-01 00:00:00","1","en","32456991","A1","A1","4","A3","A3","",""
+"10","1980-01-01 00:00:00","1","de","354074196","A2","A1","3","A3","A3","","ein eingebauter, transparenter notNull check,
+(Bessere) Erklärung in der Dokumentation was mit Einträgen passiert, die nicht auf den type/constraint gematcht werden können. 
+ein Einbauen des TextFileInterpreter in den HttpExtraktor. "
+"11","1980-01-01 00:00:00","1","de","1669828792","A2","A1","2","A2","A3","",""
+"12","1980-01-01 00:00:00","1","en","2144780143","A1","A1","2.5","A4","A3","",""
+"13","1980-01-01 00:00:00","1","en","1266167188","A2","A1","1","A3","A4","Sub-par developer experience
+Javascript dependency","Better syntax highlighting, suggestions and errors
+"
+"14","1980-01-01 00:00:00","1","de","1294052037","A1","A1","3","A4","A3","Datentypen richtig zuordnen",""
+"15","1980-01-01 00:00:00","1","de","998069883","A2","A1","2.25","A3","A5","",""
+"16","1980-01-01 00:00:00","1","de","144474120","A1","A1","1","A4","A4","",""
+"17","1980-01-01 00:00:00","1","en","1871638140","A1","A1","5","A4","A3","",""
+"18","1980-01-01 00:00:00","1","en","221624575","A1","A1","2","A3","A4","",""
+"19","1980-01-01 00:00:00","1","en","628121540","A1","A1","2","A3","A4","Unfamiliarity with pandas","pandas helps a lot"
+"20","1980-01-01 00:00:00","1","en","1074477866","A2","A1","3","A4","A4","I was unsure about missing values. However, the exercise results are perfect so I am inclined to believe that it is correct. I suppose as long as we have a full score in the exercise, our grades are according to that.","Documentation about missing values."
+"21","1980-01-01 00:00:00","1","de","2065430874","A2","A1","1","A3","A4","",""
+"22","1980-01-01 00:00:00","1","en","1840030670","A2","A1","3.5","A4","A4","Spent quite some time to look for a functionality to delete rows with empty fields.",""
+"23","1980-01-01 00:00:00","1","en","406367100","A2","A1","2","A4","A4","",""
+"24","1980-01-01 00:00:00","1","en","953314035","A1","A1","3","A4","A4","it was hard to debug what was wrong with the regex",""
+"25","1980-01-01 00:00:00","1","en","1212568212","A1","A1","3","A3","A4","",""
+"26","1980-01-01 00:00:00","1","en","370495736","A1","A1","2.5","A3","A4","",""
+"27","1980-01-01 00:00:00","1","en","36554747","A2","A1","2","A2","A4","",""
+"28","1980-01-01 00:00:00","1","en","965597135","A1","A1","4","A4","A3","none","python requests, re, sqlite3"
+"29","1980-01-01 00:00:00","1","en","1523565987","A1","A1","3","A3","A4","","pandas"
+

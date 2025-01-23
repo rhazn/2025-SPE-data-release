@@ -1,0 +1,53 @@
+# What language features or libraries would have made solving the exercise easier?
+
+## Jayvee
+
+it was a simple task no need for extra libraries in this
+-----------
+snippets, e.g. snippet for block, pipeline, valuetype, constraint (with shortkey Ctrl+Space)
+-----------
+Python
+-----------
+Ive been having problem downloading the datafile directly from kaggle cuz i have to authenticate myself first with Key n then download the file. i am not sure how can i solve this problem using JV. If there is anything in documentation which can solve the problem please let me know i would love to try it 
+Thanks, 
+-----------
+Python
+-----------
+For the first exercise it was ok. The only small problem is that we need to look at the data to know the separator and make no mistake but I guess that is part of learning curve. Overall I think it good.  
+-----------
+python, pandas
+-----------
+Propably different Codeexamples maybe, but in general the documentation is clear
+-----------
+It was relatively easier to solve so I can't add anything for this section. But coming from python background I will lean towards python functions and libraries. But I hope to learn and move forward with Jayvee in the coming exercises. 
+-----------
+Because I personally didn't find the exercise to be difficult, I don't think any libraries or features would have made it easier, since it was quite straight-forward
+-----------
+Nothing.
+-----------
+Easy syntax and good documentation of the language.
+-----------
+I used sample example available in documentation to solve this exercise. 
+-----------
+none, it was clear, even better with the example in the javee github.
+-----------
+## Python
+
+It suggested to use only the libraries mentioned in requirememts.txt. It has sql alchemy to connect to sql lite. But we can other easier solutions like simple connecting to sql lite or using postgres library in python. To use SQL alchemy, you need to create classes and objects which would be for a specific  purpose but for data engineering I think we can explore other options.
+-----------
+the given features and libraries were good, no need for further packages. 
+-----------
+So far, seems like pandas made everything easier.
+-----------
+I originally wanted to create the database using SQLAlchemy-Utils instead of pandas, which wasn't possible, because it is not included. Since SQLAlchemy is allowed, I think it would be a good idea to also include it. However retrospectively it was probably easier to use pandas anyway.  
+-----------
+-
+-----------
+SQLAlchemy and pandas 
+-----------
+maybe a referenced guide on how to use the sqlalchemy library.
+-----------
+I think the current libraries are sufficient for this task only. I cannot say for further exercises.
+-----------
+pandas and sqlalchemy
+-----------

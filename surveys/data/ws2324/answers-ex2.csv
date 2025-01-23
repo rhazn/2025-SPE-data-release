@@ -1,0 +1,47 @@
+﻿"id","submitdate","lastpage","startlanguage","seed","P1","P2","E1","E2","E3","F1","F2"
+"1","1980-01-01 00:00:00","1","en","619651955","A2","A1","3","A4","A3","It was unclear that valueType integer automatically deletes rows with empty cells",""
+"2","1980-01-01 00:00:00","1","en","1249691346","A2","A1","4","A4","A4","",""
+"4","1980-01-01 00:00:00","1","en","1686058946","A2","A1","2","A3","A3","I don't know the language, so it was mostly about how good the documentation is and how fast i could find the corresponding techniques. The examples in the documentation were a great guideline.","No extra features or libraries needed. A few of the edge cases in the Jayvee documentation could be described with more detail, like what happens with empty values when the row gets declared as an integer or what default values are chosen, if there are any."
+"5","1980-01-01 00:00:00","1","en","2111509895","A1","A1","2","A3","A3","-","Pandas, sqlalchemy."
+"6","1980-01-01 00:00:00","1","en","780560877","A2","A1","2","A3","A3","Just the initial learning curve (first time using jayvee). But it wasn't too hard doing the first steps, so it was fine.",""
+"7","1980-01-01 00:00:00","1","en","1398329153","A2","A1","2","A4","A5","I think Jayvee worked pretty well me for this exercise. Yet, I did not like the ideas of having to use a text interpreter and table interpreter in the pipeline as I suppose they can be wrapped/encapsulated within Jayvee backend itself.",""
+"8","1980-01-01 00:00:00","1","en","1636818631","A1","A1","6","A4","A4","Since I am new, I have to find good practices with python. There is no standard way to do things...",""
+"9","1980-01-01 00:00:00","1","en","750872551","A2","A1","16","A5","A5","",""
+"10","1980-01-01 00:00:00","1","en","1514201673","A1","A1","2","A4","A4","",""
+"11","1980-01-01 00:00:00","1","en","1101980214","A2","A1","14","A4","A4","Need more explanation in documentation related to examples and other funtions","jayvee documentation"
+"12","1980-01-01 00:00:00","1","en","850251305","A2","A1","3","A4","A3","",""
+"13","1980-01-01 00:00:00","1","en","664406548","A1","A1","0.5","A3","A3","None","Everything was fine"
+"14","1980-01-01 00:00:00","1","en","1882589834","A2","A1","1","A3","A3","I was unable to let the column types of the table be inferred automatically. If I solely was unable to find how to do it, or if it currently is not possible via Jayvee, I don't know.",""
+"15","1980-01-01 00:00:00","1","en","1750648307","A1","A1","4","A4","A3","personally, I faced some issues setting the SQLite connection","Sql alchemy does the job so nothing else I think"
+"16","1980-01-01 00:00:00","1","en","207743568","A2","A1","15","A4","A4","the problem is mainly technical setting, i spent almost 8 hours setting up and at the end still didn't really worked out. there is still problem with jayvee setting in vs code in windows. at the end, i have to only write code in vs code, and run on my local machine in cmd in windows to test.","my first time using jayvee. i found for beginners, this is very easy to start and good to use for this purpose. because it is relatively fixed style to write."
+"17","1980-01-01 00:00:00","1","en","734088565","A1","A1","2","A3","A3","Sqlalchemy needs the defition of a class apparently to save data in a specific way. I wasnt aware of that and was just doing df.to_sql(...) previously.",""
+"18","1980-01-01 00:00:00","1","en","161294025","A1","A1","30","A6","A2","Its very difficult to switch between languages for every exercise and project as well. i am unbale to concentrate either on Jayvee nor on Python, can you make it easy to opt for only one language for the project and one for exercise?","jayvee is much more easier rather then python. "
+"19","1980-01-01 00:00:00","1","en","1516621425","A1","A1","3","A4","A3","Some trimming actions of the data was not possible",""
+"20","1980-01-01 00:00:00","1","en","1711176598","A2","A1","2","A3","A3","- not directly a problem but it is strange that if you download a file you have to interpret as textfile first and then as csv (using 3 blocks)
+- there was missing a bit of documentation about how to use constraints (especially about using them in the pipeline). This was only really shown in the examples.","- the possibility to directly download a file and interpret as csv"
+"21","1980-01-01 00:00:00","1","en","485372351","A1","A1","8","A4","A3","",""
+"22","1980-01-01 00:00:00","1","en","2141971174","A1","A1","1","A3","A4","",""
+"23","1980-01-01 00:00:00","1","en","205363639","A1","A1","20","A4","A3","",""
+"24","1980-01-01 00:00:00","1","en","783392808","A1","A1","4","A4","A4","Hello Professor,
+
+I wanted to provide some feedback on Exercise 2 and share a concern I encountered regarding the project structure.
+
+However, I faced a challenge with the project structure. To enhance organization, I created a ""misc"" folder for global functions and constants related to the dataset and URL. While this structure works well locally, I noticed that when I use these defined constants or global functions from another folder in the exercise, the feedback indicates failure.
+
+I suspect I might be making a mistake or there could be limitations in the workflow defined in the .yml file. I would appreciate any guidance or insights on how to structure my project to avoid this issue.
+
+Additionally, I would like to discuss this matter further in our in-person meeting scheduled for December 6th. I believe your input will be invaluable in understanding and resolving this concern.
+
+","Jayvee"
+"25","1980-01-01 00:00:00","1","en","633044084","A2","A1","2","A4","A4","",""
+"26","1980-01-01 00:00:00","1","en","5201144","A2","A1","1","A3","A3","",""
+"27","1980-01-01 00:00:00","1","en","84256180","A2","A1","2","A3","A3","very little examples in the documentation",""
+"29","1980-01-01 00:00:00","1","en","1022988987","A2","A1","10","A3","A4","More usability documentation, more examples covering different concepts are helpful ","Tried python and jayvee, I felt Jayvee needs hands on, but much effective. 
+Ofcourse, python is popular and less learning curve. "
+"30","1980-01-01 00:00:00","1","en","795896593","A2","A1","2","A5","A3","",""
+"31","1980-01-01 00:00:00","1","en","360596990","A2","A1","1","A3","A3","I could not figure out how to eliminate null cells for numeric fields",""
+"32","1980-01-01 00:00:00","1","en","196301726","A1","A1","1","A3","A4","I used requests library for fetching data but the workflow was saying no module requests found and I had to change my solution",""
+"33","1980-01-01 00:00:00","1","en","342998682","A2","A1","4","A4","A4","",""
+"35","1980-01-01 00:00:00","1","en","81437957","A1","A1","30","A6","A2","Its very difficult to switch between languages every time for project and exercise. can you it one for project and one for exercise. I am unable to concentrate on both every time for project and exercise because few features work on Jayvee efficiently and few on python.","jayvee is comparatively easier then python. "
+"36","1980-01-01 00:00:00","1","en","1578996203","A2","A1","8","A5","A3","Jayvee","Python and Pandas"
+

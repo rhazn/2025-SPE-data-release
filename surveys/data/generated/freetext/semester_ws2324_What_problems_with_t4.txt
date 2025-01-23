@@ -1,0 +1,31 @@
+# What problems with the programming language did you encounter during this exercise?
+
+## Jayvee
+
+I found no easy way to rename columns inplace without creating a new column. header = true should let us use a statement, where we can rename the matched column, like "Hersteller" oftype text, should be used "Hersteller" oftype text as "Herstelleralternativename", 
+Or TableTransformer should use a way to rename the column and not create a new one with a boolean. Like inplace=true. Also more inputs and more outputs can be adventagues if you have multiple columns you can modify with a single transform
+-----------
+Needed a minute to understand how to use ColumnDeleter for multiple columns. A second example in the docs would be nice. 
+
+The code block:
+    transform CelsiusToFahrenheit {
+        from Celsius oftype decimal;
+        to Fahrenheit oftype decimal;
+        Fahrenheit: (Celsius * 9/5) + 32;
+    }
+
+was not possible with a custom oftype. I wanted to make sure the temperatures where reasonable. It was still possible by checking the original Celsius values. It would be cool to support custom valuetypes in transforms. Maybe it is possible and I just couldn't figure it out :) 
+I got the error message: The value needs to be of type ValidTemperature but is of type decimal.
+-----------
+Writing basically the same block twice for the TableTransformer. I would prefer the option to pass the input columns and output column as some type of argument rather than copying and pasting the block.
+-----------
+I didn't know how to do two things at a time with one function. For example, rename two cell headers in one block, i don't know how to do that, so I had to write two blocks separately. Similarly like TableTransformer, I had to write 2 CelsiusToFahrenheittransformer blocks for two columns, because i don't know how to put them in one block. Didn't find examples like this.
+-----------
+The jayvee had some bad structure of pipeline. For example, to change the name of column, I had to define the same thing twice.
+-----------
+## Python
+
+The main problem I got stuck in was the data separation because the data is separated with ";" and also column wise. 
+-----------
+the datasets are not easy to extract.
+-----------

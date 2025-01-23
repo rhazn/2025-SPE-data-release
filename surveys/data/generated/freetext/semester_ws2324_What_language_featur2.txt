@@ -1,0 +1,31 @@
+# What language features or libraries would have made solving the exercise easier?
+
+## Jayvee
+
+No extra features or libraries needed. A few of the edge cases in the Jayvee documentation could be described with more detail, like what happens with empty values when the row gets declared as an integer or what default values are chosen, if there are any.
+-----------
+jayvee documentation
+-----------
+my first time using jayvee. i found for beginners, this is very easy to start and good to use for this purpose. because it is relatively fixed style to write.
+-----------
+- the possibility to directly download a file and interpret as csv
+-----------
+Tried python and jayvee, I felt Jayvee needs hands on, but much effective. 
+Ofcourse, python is popular and less learning curve. 
+-----------
+Python and Pandas
+-----------
+## Python
+
+Pandas, sqlalchemy.
+-----------
+Everything was fine
+-----------
+Sql alchemy does the job so nothing else I think
+-----------
+jayvee is much more easier rather then python. 
+-----------
+Jayvee
+-----------
+jayvee is comparatively easier then python. 
+-----------

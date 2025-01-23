@@ -1,0 +1,143 @@
+Code System	Frequency
+Code System	414
+_RESEARCH QUESTIONS	0
+_COLOR NOTES	0
+Relevant for Roadmap only	0
+Concrete feature suggestions for JV	0
+Cross-cutting concerns	0
+Missing feature: Side effects	1
+Missing feature: Async calls	1
+Missing feature: Testing	4
+Missing feature: Monitoring	1
+Implementation support	0
+Missing feature: Println statement that prints the current data	1
+Better suggestions	1
+Better syntax highlighting	1
+Extended functionality	0
+Missing feature: Automatically infer datatype of a column	1
+TableInterpreter should be able to rename columns as well	1
+Transformations should be able to delete original input column	1
+Missing feature: Advanced data types	1
+Missing feature: Allowlist constraint for unconnected integers	2
+Missing feature: Integer constrains	4
+Missing feature: Deleting columns in tables, not just sheets	1
+Missing feature: Select rows from the bottom/end of files	3
+Missing feature: Deleting/transforming multiple columns	21
+Missing feature: A list of range selections	2
+Missing feature: Not null check	1
+Missing feature: Share code / Import / Export / Multiple files	2
+Missing feature: XML support	1
+Missing feature: JSON support	1
+Misc	0
+Pipeline Run Summary	1
+Default blocks usable in pipeline without instantiating before	1
+Impressions of Speed / Difficulty / Quality	0
+Speed	0
+Performance seems irrelevant for small datasets	0
+JV is performant	1
+PY libraries make it performant	1
+Implementation is slower in JV than in PY	4
+Difficulty	0
+JV has no / the same challenges as PY	5
+JV is fast and easy to learn	6
+Pipes and filters concept is intuitive	1
+Knowledge of data engineering helps learning JV	1
+JV is easier to learn for beginners	2
+JV docs are good, even compared to PY	4
+JV is easy to use	14
+JV is easy to use because of limited scope	3
+JV is easier to use than PY	5
+JV is easy to use for novice programmers	1
+Working with ZIP files is easier in JV than in PY	8
+Mixed opinions on ease of transforming values	6
+Quality	0
+JV pipelines are easier to read than PY	3
+JV pipelines can be understood by non-programmers	1
+JV pipelines give a good overview, steps and execution order	6
+JV pipelines give a better overview than PY	3
+JV pipelines are easy to understand	5
+JV pipelines are easier to understand than PY	4
+JV pipelines are of high quality	4
+JV pipelines are of higher quality than PY	1
+JV pipelines are less robust than PY	1
+Effects of using a DSL-PF over a GPL-L	0
+Limited Feature Coverage	0
+Missing cross-cutting concerns: Testing, Monitoring, Async	5
+Limited because new vs scope: EX3: Deleting unconnected columns	22
+JV creates challenges due to not implemented functionality	11
+JV works better in its limited use-cases, worse outside of them	3
+Extending JV with a GPL mentioned only rarely	3
+Improved Approachability	0
+Programming experience	0
+Many different possible implementations split community	10
+Central, compact source of documentation due to limited scope	3
+PY libraries are large, have to be learned like a language ext 	9
+Using PY libs well requires being a good programmer	3
+Researching fitting libraries takes time and experience	10
+Domain knowledge	0
+Positive impact on related domains	0
+Pipes and filters structure as inspiration for better PY code	4
+Learning JV helps to learn data pipeline concepts	2
+Future JV implementation is easier due to repeated structure	1
+Comparison to Pandas/HTML/Data Pipelines	3
+Feels like sheet software instead of programming	3
+Data engineering experience can be from sheet software	1
+Different Code Structure	0
+More structure but less flexibility in JV than in PY	5
+JV structure enforces good style, like PY with named functions	11
+Bad PY code by inexperienced programmers / 'should just run'	2
+Dense and complex PY code is hard to debug	3
+JV creates smaller units of code that belong together	6
+Easier structure due to no variables	1
+Guided Development Workflow	0
+Enforced structure provides a guideline / order	7
+Blocks and their properties as reminders for what to do	4
+PY: Code first, then refactor	4
+Work by narrowing from source data, not backwards from goal	3
+JV: Blocks first, then connect	1
+Magic Requires Trust	0
+More magic, less trust in correct output data (and vice versa) 	5
+If magic is wrong it is hard to fix	2
+If blocks are too small, leads to verbose code and slow impl.	4
+Deleting row in pandas might affect data type of column	1
+Less magic, smaller steps makes pipeline easier to understand	1
+Less magic is not that more work, need to do it anyway	1
+Easier Reuse / Collaboration	0
+Pipes and filters structure supports collaboration	3
+Reuse is harder in PY because of multiple possible approaches	2
+Blocks / Custom valuetypes enable easy reuse	3
+Existing pipelines must be adaptable to enable reuse	2
+Considerations for a new data engineering language	0
+Developer experience	0
+Unclear code style in new language	2
+Small challenges to set up programming environments in both	8
+Clear error messages are important (and missing in JV)	4
+Version confusion between docs, interpreter and language	4
+Smaller community means no googling for errors	4
+Debugging JV is challenging / Missing debugger	11
+Less tooling / IDE support in JV than in PY	5
+VSCode Extension is good	1
+JV structure allows more hints during programming	1
+Importance of Documentation	0
+Easy access while programming	3
+Students do not like reading documentation	1
+Version confusion in documentation	3
+New documentation is missing content	17
+Need for examples	15
+Examples must be complete, partial examples challenge in PY	2
+Need for tutorials of common use-cases	2
+Need for error documentation	1
+Documentation structure is important	3
+Use of ChatGPT	0
+ChatGPT can not be used with JV	3
+Use of ChatGPT with PY	3
+ChatGPT as debugging tool in PY	1
+Relevance of Code and Data	0
+Must be able to see intermediate data (e.g., Notebook, println)	4
+Type inference for columns helpful to know data while modeling	2
+MISC	0
+Flexibility vs. higher abstraction	0
+Hidden implementation (blocks as blackbox), requiring trust	3
+Tradeoff generalist vs. specialized functions	1
+Visualization of pipeline would help	1
+Preference for visual coding	1

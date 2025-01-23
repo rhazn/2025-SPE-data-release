@@ -1,0 +1,1 @@
+The transcripts of student interviews are not available as part of the public data release but can be shared on request. Please contact philip@heltweg.org.

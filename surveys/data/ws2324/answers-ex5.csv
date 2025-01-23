@@ -1,0 +1,15 @@
+﻿"id","submitdate","lastpage","startlanguage","seed","P1","P2","E1","E2","E3","F1","F2"
+"1","1980-01-01 00:00:00","1","en","1301948066","A2","A1","2","A3","A4","Hi, nothing special. The exercise was pretty easy as it was 90% similar to one of the examples in the Javee documentation. The only problem I had was that for several times the HTTPExtracter couldn't fetch the zip file. But then it was OK. It said to check the internet connection, but internet was OK.","Extracting and picking file. It has a lot less boiler plate compared to python. And I feel data people really like this feature as they want these steps to work out of the box so that they  can focus on analysis part.
+
+Also constraint was quiet similar. Easy and clean to set them. Really liked it."
+"2","1980-01-01 00:00:00","1","en","1164899838","A2","A1","1","A4","A4","",""
+"3","1980-01-01 00:00:00","1","en","772311977","A1","A1","1","A4","A3","",""
+"4","1980-01-01 00:00:00","1","en","1023046283","A1","A1","0.5","A3","A4","",""
+"6","1980-01-01 00:00:00","1","en","888082456","A1","A1","2","A2","A4","Using the urllib.request.urlretrieve tip it was rather straight forward. Most of the demanded transformations were already part of a previous exercise in some form and therefore easy to incorporate.","Nothing"
+"8","1980-01-01 00:00:00","1","en","659692474","A2","A1","1","A3","A4","","Documentations and easy syntext"
+"9","1980-01-01 00:00:00","1","en","815949075","A1","A1","5","A5","A5","",""
+"10","1980-01-01 00:00:00","1","en","1266309462","A1","A1","2","A4","A3","",""
+"11","1980-01-01 00:00:00","1","en","519958210","A2","A1","1","A4","A3","",""
+"16","1980-01-01 00:00:00","1","en","185652483","A2","A1","2","A4","A4","Debugging","Feature to look at intermediate outputs and debug the code"
+"17","1980-01-01 00:00:00","1","en","1772419447","A1","A1","1","A3","A4","",""
+

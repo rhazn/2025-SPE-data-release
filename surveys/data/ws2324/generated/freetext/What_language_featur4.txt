@@ -1,0 +1,14 @@
+# What language features or libraries would have made solving the exercise easier?
+
+## Jayvee
+
+Javyee supports deletion of columns but not column selection. I had to use ColumnDeleter and CellRangeSelector to select the desired column. It would be great if there is a block for selecting the required columns.
+-----------
+see above
+-----------
+idk
+-----------
+## Python
+
+pandas
+-----------

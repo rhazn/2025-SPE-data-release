@@ -1,0 +1,59 @@
+# What problems with the programming language did you encounter during this exercise?
+
+## Jayvee
+
+It was unclear that valueType integer automatically deletes rows with empty cells
+-----------
+I could not figure out how to eliminate null cells for numeric fields
+-----------
+More usability documentation, more examples covering different concepts are helpful 
+-----------
+very little examples in the documentation
+-----------
+- not directly a problem but it is strange that if you download a file you have to interpret as textfile first and then as csv (using 3 blocks)
+- there was missing a bit of documentation about how to use constraints (especially about using them in the pipeline). This was only really shown in the examples.
+-----------
+the problem is mainly technical setting, i spent almost 8 hours setting up and at the end still didn't really worked out. there is still problem with jayvee setting in vs code in windows. at the end, i have to only write code in vs code, and run on my local machine in cmd in windows to test.
+-----------
+I was unable to let the column types of the table be inferred automatically. If I solely was unable to find how to do it, or if it currently is not possible via Jayvee, I don't know.
+-----------
+Jayvee
+-----------
+I think Jayvee worked pretty well me for this exercise. Yet, I did not like the ideas of having to use a text interpreter and table interpreter in the pipeline as I suppose they can be wrapped/encapsulated within Jayvee backend itself.
+-----------
+Just the initial learning curve (first time using jayvee). But it wasn't too hard doing the first steps, so it was fine.
+-----------
+I don't know the language, so it was mostly about how good the documentation is and how fast i could find the corresponding techniques. The examples in the documentation were a great guideline.
+-----------
+Need more explanation in documentation related to examples and other funtions
+-----------
+## Python
+
+personally, I faced some issues setting the SQLite connection
+-----------
+Since I am new, I have to find good practices with python. There is no standard way to do things...
+-----------
+Its very difficult to switch between languages every time for project and exercise. can you it one for project and one for exercise. I am unable to concentrate on both every time for project and exercise because few features work on Jayvee efficiently and few on python.
+-----------
+Its very difficult to switch between languages for every exercise and project as well. i am unbale to concentrate either on Jayvee nor on Python, can you make it easy to opt for only one language for the project and one for exercise?
+-----------
+Some trimming actions of the data was not possible
+-----------
+Hello Professor,
+
+I wanted to provide some feedback on Exercise 2 and share a concern I encountered regarding the project structure.
+
+However, I faced a challenge with the project structure. To enhance organization, I created a "misc" folder for global functions and constants related to the dataset and URL. While this structure works well locally, I noticed that when I use these defined constants or global functions from another folder in the exercise, the feedback indicates failure.
+
+I suspect I might be making a mistake or there could be limitations in the workflow defined in the .yml file. I would appreciate any guidance or insights on how to structure my project to avoid this issue.
+
+Additionally, I would like to discuss this matter further in our in-person meeting scheduled for December 6th. I believe your input will be invaluable in understanding and resolving this concern.
+
+
+-----------
+-
+-----------
+I used requests library for fetching data but the workflow was saying no module requests found and I had to change my solution
+-----------
+Sqlalchemy needs the defition of a class apparently to save data in a specific way. I wasnt aware of that and was just doing df.to_sql(...) previously.
+-----------

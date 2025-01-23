@@ -1,0 +1,250 @@
+language,time,difficulty,quality,survey,semester
+Jayvee,0.2,Very easy,Medium,1,ss23
+Jayvee,0.5,Easy,Medium,1,ss23
+Python,3.0,Medium,Low,1,ss23
+Python,1.5,Very easy,Low,1,ss23
+Python,1.0,Very easy,Low,1,ss23
+Jayvee,1.5,Easy,High,1,ss23
+Jayvee,2.5,Easy,Medium,1,ss23
+Jayvee,1.0,Easy,High,1,ss23
+Python,3.0,Medium,Medium,1,ss23
+Python,5.0,Very easy,High,1,ss23
+Jayvee,5.0,Medium,Very high,1,ss23
+Python,4.0,Medium,Medium,1,ss23
+Python,1.0,Easy,Very high,1,ss23
+Jayvee,4.0,Easy,High,1,ss23
+Python,1.0,Very easy,Very low,1,ss23
+Jayvee,1.0,Very easy,High,1,ss23
+Python,4.0,Easy,Medium,1,ss23
+Python,2.0,Easy,Medium,1,ss23
+Python,2.0,Very easy,High,1,ss23
+Jayvee,4.0,Medium,Medium,1,ss23
+Python,1.0,Very easy,Medium,1,ss23
+Jayvee,2.0,Easy,Medium,1,ss23
+Jayvee,6.0,Medium,High,1,ss23
+Python,1.0,Easy,High,1,ss23
+Jayvee,5.0,Medium,Medium,1,ss23
+Python,3.0,Medium,High,1,ss23
+Jayvee,1.0,Medium,High,1,ss23
+Python,3.0,Easy,Medium,1,ss23
+Python,0.5,Easy,Medium,1,ss23
+Python,3.0,Medium,High,1,ss23
+Python,4.0,Medium,Medium,1,ss23
+Python,4.0,Medium,High,1,ss23
+Python,1.0,Medium,Medium,1,ss23
+Python,2.0,Medium,Medium,1,ss23
+Jayvee,4.0,Easy,High,1,ss23
+Python,0.5,Very easy,High,1,ss23
+Jayvee,0.5,Very easy,Very low,1,ss23
+Jayvee,3.0,Medium,High,1,ss23
+Jayvee,4.0,Medium,Medium,1,ss23
+Jayvee,0.75,Easy,Medium,2,ss23
+Jayvee,0.5,Very easy,Medium,2,ss23
+Jayvee,3.0,Hard,Low,2,ss23
+Jayvee,3.25,Very easy,High,2,ss23
+Jayvee,4.0,Medium,Medium,2,ss23
+Python,4.5,Medium,Medium,2,ss23
+Python,4.0,Medium,Medium,2,ss23
+Python,4.0,Easy,Medium,2,ss23
+Jayvee,3.0,Easy,Medium,2,ss23
+Jayvee,2.0,Very easy,Medium,2,ss23
+Python,2.5,Medium,Medium,2,ss23
+Jayvee,1.0,Easy,High,2,ss23
+Python,3.0,Medium,Medium,2,ss23
+Jayvee,2.25,Easy,Very high,2,ss23
+Python,1.0,Medium,High,2,ss23
+Python,5.0,Medium,Medium,2,ss23
+Python,2.0,Easy,High,2,ss23
+Python,2.0,Easy,High,2,ss23
+Jayvee,3.0,Medium,High,2,ss23
+Jayvee,1.0,Easy,High,2,ss23
+Jayvee,3.5,Medium,High,2,ss23
+Jayvee,2.0,Medium,High,2,ss23
+Python,3.0,Medium,High,2,ss23
+Python,3.0,Easy,High,2,ss23
+Python,2.5,Easy,High,2,ss23
+Jayvee,2.0,Very easy,High,2,ss23
+Python,4.0,Medium,Medium,2,ss23
+Python,3.0,Easy,High,2,ss23
+Jayvee,1.0,Easy,Medium,3,ss23
+Jayvee,2.0,Medium,Medium,3,ss23
+Python,3.5,Medium,High,3,ss23
+Jayvee,5.0,Very hard,Very low,3,ss23
+Jayvee,4.0,Hard,Medium,3,ss23
+Jayvee,2.5,Hard,High,3,ss23
+Jayvee,4.0,Hard,High,3,ss23
+Jayvee,3.0,Easy,Medium,3,ss23
+Jayvee,3.0,Hard,Medium,3,ss23
+Jayvee,3.0,Medium,Medium,3,ss23
+Python,5.0,Medium,Medium,3,ss23
+Python,3.0,Medium,High,3,ss23
+Python,2.0,Easy,High,3,ss23
+Jayvee,5.0,Very hard,Very low,3,ss23
+Jayvee,3.0,Medium,High,3,ss23
+Jayvee,4.0,Easy,High,3,ss23
+Jayvee,1.5,Medium,High,3,ss23
+Python,3.0,Medium,Low,3,ss23
+Python,3.0,Medium,High,3,ss23
+Jayvee,4.0,Hard,Medium,3,ss23
+Jayvee,2.0,Medium,Medium,3,ss23
+Python,2.0,Medium,Medium,4,ss23
+Jayvee,1.0,Easy,Medium,4,ss23
+Jayvee,2.0,Easy,High,4,ss23
+Jayvee,3.0,Very easy,High,4,ss23
+Python,3.0,Medium,High,4,ss23
+Python,3.0,Easy,High,4,ss23
+Jayvee,4.0,Very hard,Very low,4,ss23
+Jayvee,2.0,Medium,High,4,ss23
+Python,3.0,Medium,High,4,ss23
+Jayvee,3.0,Medium,Medium,4,ss23
+Jayvee,2.0,Hard,Low,4,ss23
+Python,1.5,Easy,High,4,ss23
+Python,2.0,Medium,Medium,4,ss23
+Jayvee,2.0,Easy,Medium,4,ss23
+Python,4.0,Medium,High,4,ss23
+Jayvee,2.0,Easy,High,4,ss23
+Python,2.5,Medium,High,4,ss23
+Python,2.0,Medium,Medium,4,ss23
+Jayvee,3.0,Easy,High,4,ss23
+Python,4.0,Hard,High,4,ss23
+Jayvee,1.0,Easy,High,5,ss23
+Python,1.0,Very easy,High,5,ss23
+Jayvee,2.0,Easy,Medium,5,ss23
+Python,1.0,Easy,High,5,ss23
+Python,2.2,Medium,Very high,5,ss23
+Jayvee,0.5,Very easy,High,5,ss23
+Python,1.0,Medium,High,5,ss23
+Python,1.0,Easy,High,5,ss23
+Jayvee,2.5,Medium,Medium,5,ss23
+Python,2.0,Medium,High,5,ss23
+Jayvee,2.0,Easy,Medium,5,ss23
+Python,1.0,Medium,Medium,5,ss23
+Python,0.5,Easy,High,5,ss23
+Python,3.0,Medium,Medium,5,ss23
+Jayvee,4.0,Easy,High,5,ss23
+Jayvee,2.0,Medium,Medium,5,ss23
+Python,30.0,Medium,High,5,ss23
+Jayvee,5.0,Hard,Medium,5,ss23
+Python,0.5,Easy,Medium,5,ss23
+Jayvee,1.0,Easy,High,5,ss23
+Jayvee,2.0,Medium,Medium,5,ss23
+Jayvee,4.0,Hard,High,5,ss23
+Python,0.5,Very easy,High,1,ws2324
+Python,0.5,Easy,High,1,ws2324
+Python,3.0,Medium,High,1,ws2324
+Jayvee,3.0,Easy,Medium,1,ws2324
+Jayvee,3.0,Easy,High,1,ws2324
+Jayvee,1.0,Very easy,High,1,ws2324
+Jayvee,2.0,Easy,High,1,ws2324
+Jayvee,5.0,Easy,High,1,ws2324
+Jayvee,4.0,Medium,Medium,1,ws2324
+Jayvee,1.0,Very easy,High,1,ws2324
+Python,2.0,Easy,Medium,1,ws2324
+Python,3.0,Easy,Low,1,ws2324
+Jayvee,2.0,Medium,High,1,ws2324
+Jayvee,1.0,Easy,Medium,1,ws2324
+Jayvee,40.0,Hard,Medium,1,ws2324
+Jayvee,4.0,Medium,Medium,1,ws2324
+Jayvee,1.0,Easy,Medium,1,ws2324
+Python,2.0,Easy,Medium,1,ws2324
+Jayvee,1.0,Very easy,High,1,ws2324
+Jayvee,5.0,Easy,Medium,1,ws2324
+Python,1.0,Very easy,Medium,1,ws2324
+Jayvee,1.0,Very easy,High,1,ws2324
+Jayvee,8.0,Medium,High,1,ws2324
+Python,2.0,Medium,Medium,1,ws2324
+Jayvee,1.0,Easy,High,1,ws2324
+Jayvee,1.0,Easy,Very high,1,ws2324
+Jayvee,5.0,Medium,Medium,1,ws2324
+Python,10.0,Medium,High,1,ws2324
+Jayvee,3.0,Medium,High,1,ws2324
+Python,1.0,Easy,Medium,1,ws2324
+Python,1.0,Medium,Medium,1,ws2324
+Jayvee,2.0,Very easy,Medium,1,ws2324
+Python,2.0,Medium,Medium,1,ws2324
+Python,3.0,Medium,Medium,1,ws2324
+Jayvee,1.0,Easy,High,1,ws2324
+Jayvee,4.0,Medium,Medium,1,ws2324
+Jayvee,1.0,Easy,Medium,1,ws2324
+Jayvee,2.0,Easy,High,1,ws2324
+Python,2.0,Medium,Medium,1,ws2324
+Jayvee,3.0,Medium,High,1,ws2324
+Jayvee,1.0,Easy,High,1,ws2324
+Python,2.0,Easy,Medium,1,ws2324
+Python,4.0,Easy,High,1,ws2324
+Python,2.0,Easy,Medium,1,ws2324
+Jayvee,2.0,Easy,High,1,ws2324
+Python,6.0,Hard,High,1,ws2324
+Python,3.0,Very easy,Medium,1,ws2324
+Python,1.0,Easy,High,1,ws2324
+Jayvee,2.0,Easy,Medium,1,ws2324
+Python,3.0,Easy,Medium,1,ws2324
+Python,1.0,Medium,High,1,ws2324
+Python,2.0,Medium,Medium,1,ws2324
+Python,1.0,Easy,Medium,1,ws2324
+Python,1.0,Medium,Very high,1,ws2324
+Python,1.0,Medium,High,1,ws2324
+Jayvee,3.0,Medium,High,1,ws2324
+Jayvee,3.0,Medium,Medium,2,ws2324
+Jayvee,4.0,Medium,High,2,ws2324
+Jayvee,2.0,Easy,Medium,2,ws2324
+Python,2.0,Easy,Medium,2,ws2324
+Jayvee,2.0,Easy,Medium,2,ws2324
+Jayvee,2.0,Medium,Very high,2,ws2324
+Python,6.0,Medium,High,2,ws2324
+Jayvee,16.0,Hard,Very high,2,ws2324
+Python,2.0,Medium,High,2,ws2324
+Jayvee,14.0,Medium,High,2,ws2324
+Jayvee,3.0,Medium,Medium,2,ws2324
+Python,0.5,Easy,Medium,2,ws2324
+Jayvee,1.0,Easy,Medium,2,ws2324
+Python,4.0,Medium,Medium,2,ws2324
+Jayvee,15.0,Medium,High,2,ws2324
+Python,2.0,Easy,Medium,2,ws2324
+Python,30.0,Very hard,Low,2,ws2324
+Python,3.0,Medium,Medium,2,ws2324
+Jayvee,2.0,Easy,Medium,2,ws2324
+Python,8.0,Medium,Medium,2,ws2324
+Python,1.0,Easy,High,2,ws2324
+Python,20.0,Medium,Medium,2,ws2324
+Python,4.0,Medium,High,2,ws2324
+Jayvee,2.0,Medium,High,2,ws2324
+Jayvee,1.0,Easy,Medium,2,ws2324
+Jayvee,2.0,Easy,Medium,2,ws2324
+Jayvee,10.0,Easy,High,2,ws2324
+Jayvee,2.0,Hard,Medium,2,ws2324
+Jayvee,1.0,Easy,Medium,2,ws2324
+Python,1.0,Easy,High,2,ws2324
+Jayvee,4.0,Medium,High,2,ws2324
+Python,30.0,Very hard,Low,2,ws2324
+Jayvee,8.0,Hard,Medium,2,ws2324
+Jayvee,2.0,Hard,Medium,3,ws2324
+Python,2.0,Easy,Medium,3,ws2324
+Jayvee,6.0,Easy,Medium,3,ws2324
+Python,3.0,Medium,High,3,ws2324
+Python,10.0,Medium,High,4,ws2324
+Python,2.0,Medium,High,4,ws2324
+Jayvee,2.0,Easy,High,4,ws2324
+Jayvee,3.0,Easy,High,4,ws2324
+Jayvee,2.0,Easy,Medium,4,ws2324
+Python,7.0,Hard,High,4,ws2324
+Jayvee,2.0,Easy,Medium,4,ws2324
+Python,3.0,Easy,High,4,ws2324
+Jayvee,3.0,Medium,High,4,ws2324
+Jayvee,2.0,Medium,High,4,ws2324
+Jayvee,2.0,Very easy,Very high,4,ws2324
+Jayvee,16.0,Hard,High,4,ws2324
+Python,2.0,Easy,Very high,4,ws2324
+Python,1.0,Medium,Medium,4,ws2324
+Jayvee,2.0,Easy,Medium,4,ws2324
+Jayvee,2.0,Easy,High,5,ws2324
+Jayvee,1.0,Medium,High,5,ws2324
+Python,1.0,Medium,Medium,5,ws2324
+Python,0.5,Easy,High,5,ws2324
+Python,2.0,Very easy,High,5,ws2324
+Jayvee,1.0,Easy,High,5,ws2324
+Python,5.0,Hard,Very high,5,ws2324
+Python,2.0,Medium,Medium,5,ws2324
+Jayvee,1.0,Medium,Medium,5,ws2324
+Jayvee,2.0,Medium,High,5,ws2324
+Python,1.0,Easy,High,5,ws2324

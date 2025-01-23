@@ -1,0 +1,16 @@
+[project]
+name = "2025-SPE-data-release"
+version = "0.1.0"
+description = "Data release for 2025 SPE paper"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "limepy>=0.1.14",
+    "matplotlib>=3.10.0",
+    "numpy>=2.2.2",
+    "pandas>=2.2.3",
+    "pingouin==0.5.4",
+    "plot-likert>=0.5.0",
+    "seaborn>=0.13.2",
+]

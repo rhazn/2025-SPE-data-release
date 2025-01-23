@@ -1,0 +1,120 @@
+language,time,difficulty,quality,survey
+Python,0.5,Very easy,High,1
+Python,0.5,Easy,High,1
+Python,3.0,Medium,High,1
+Jayvee,3.0,Easy,Medium,1
+Jayvee,3.0,Easy,High,1
+Jayvee,1.0,Very easy,High,1
+Jayvee,2.0,Easy,High,1
+Jayvee,5.0,Easy,High,1
+Jayvee,4.0,Medium,Medium,1
+Jayvee,1.0,Very easy,High,1
+Python,2.0,Easy,Medium,1
+Python,3.0,Easy,Low,1
+Jayvee,2.0,Medium,High,1
+Jayvee,1.0,Easy,Medium,1
+Jayvee,40.0,Hard,Medium,1
+Jayvee,4.0,Medium,Medium,1
+Jayvee,1.0,Easy,Medium,1
+Python,2.0,Easy,Medium,1
+Jayvee,1.0,Very easy,High,1
+Jayvee,5.0,Easy,Medium,1
+Python,1.0,Very easy,Medium,1
+Jayvee,1.0,Very easy,High,1
+Jayvee,8.0,Medium,High,1
+Python,2.0,Medium,Medium,1
+Jayvee,1.0,Easy,High,1
+Jayvee,1.0,Easy,Very high,1
+Jayvee,5.0,Medium,Medium,1
+Python,10.0,Medium,High,1
+Jayvee,3.0,Medium,High,1
+Python,1.0,Easy,Medium,1
+Python,1.0,Medium,Medium,1
+Jayvee,2.0,Very easy,Medium,1
+Python,2.0,Medium,Medium,1
+Python,3.0,Medium,Medium,1
+Jayvee,1.0,Easy,High,1
+Jayvee,4.0,Medium,Medium,1
+Jayvee,1.0,Easy,Medium,1
+Jayvee,2.0,Easy,High,1
+Python,2.0,Medium,Medium,1
+Jayvee,3.0,Medium,High,1
+Jayvee,1.0,Easy,High,1
+Python,2.0,Easy,Medium,1
+Python,4.0,Easy,High,1
+Python,2.0,Easy,Medium,1
+Jayvee,2.0,Easy,High,1
+Python,6.0,Hard,High,1
+Python,3.0,Very easy,Medium,1
+Python,1.0,Easy,High,1
+Jayvee,2.0,Easy,Medium,1
+Python,3.0,Easy,Medium,1
+Python,1.0,Medium,High,1
+Python,2.0,Medium,Medium,1
+Python,1.0,Easy,Medium,1
+Python,1.0,Medium,Very high,1
+Python,1.0,Medium,High,1
+Jayvee,3.0,Medium,High,1
+Jayvee,3.0,Medium,Medium,2
+Jayvee,4.0,Medium,High,2
+Jayvee,2.0,Easy,Medium,2
+Python,2.0,Easy,Medium,2
+Jayvee,2.0,Easy,Medium,2
+Jayvee,2.0,Medium,Very high,2
+Python,6.0,Medium,High,2
+Jayvee,16.0,Hard,Very high,2
+Python,2.0,Medium,High,2
+Jayvee,14.0,Medium,High,2
+Jayvee,3.0,Medium,Medium,2
+Python,0.5,Easy,Medium,2
+Jayvee,1.0,Easy,Medium,2
+Python,4.0,Medium,Medium,2
+Jayvee,15.0,Medium,High,2
+Python,2.0,Easy,Medium,2
+Python,30.0,Very hard,Low,2
+Python,3.0,Medium,Medium,2
+Jayvee,2.0,Easy,Medium,2
+Python,8.0,Medium,Medium,2
+Python,1.0,Easy,High,2
+Python,20.0,Medium,Medium,2
+Python,4.0,Medium,High,2
+Jayvee,2.0,Medium,High,2
+Jayvee,1.0,Easy,Medium,2
+Jayvee,2.0,Easy,Medium,2
+Jayvee,10.0,Easy,High,2
+Jayvee,2.0,Hard,Medium,2
+Jayvee,1.0,Easy,Medium,2
+Python,1.0,Easy,High,2
+Jayvee,4.0,Medium,High,2
+Python,30.0,Very hard,Low,2
+Jayvee,8.0,Hard,Medium,2
+Jayvee,2.0,Hard,Medium,3
+Python,2.0,Easy,Medium,3
+Jayvee,6.0,Easy,Medium,3
+Python,3.0,Medium,High,3
+Python,10.0,Medium,High,4
+Python,2.0,Medium,High,4
+Jayvee,2.0,Easy,High,4
+Jayvee,3.0,Easy,High,4
+Jayvee,2.0,Easy,Medium,4
+Python,7.0,Hard,High,4
+Jayvee,2.0,Easy,Medium,4
+Python,3.0,Easy,High,4
+Jayvee,3.0,Medium,High,4
+Jayvee,2.0,Medium,High,4
+Jayvee,2.0,Very easy,Very high,4
+Jayvee,16.0,Hard,High,4
+Python,2.0,Easy,Very high,4
+Python,1.0,Medium,Medium,4
+Jayvee,2.0,Easy,Medium,4
+Jayvee,2.0,Easy,High,5
+Jayvee,1.0,Medium,High,5
+Python,1.0,Medium,Medium,5
+Python,0.5,Easy,High,5
+Python,2.0,Very easy,High,5
+Jayvee,1.0,Easy,High,5
+Python,5.0,Hard,Very high,5
+Python,2.0,Medium,Medium,5
+Jayvee,1.0,Medium,Medium,5
+Jayvee,2.0,Medium,High,5
+Python,1.0,Easy,High,5

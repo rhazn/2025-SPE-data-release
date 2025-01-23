@@ -1,0 +1,48 @@
+﻿"id","submitdate","lastpage","startlanguage","seed","P1","P2","E1","E2","E3","F1","F2"
+"1","1980-01-01 00:00:00","1","en","904540347","A2","A1","0.2","A2","A3","nothing",""
+"2","1980-01-01 00:00:00","1","de","1266395247","A2","A1","0.5","A3","A3","",""
+"3","1980-01-01 00:00:00","1","en","1921513512","A1","A1","3","A4","A2","I got problems with the automatic feedback:  Can not find expected output file: airports.sqlite. Make sure your model generates it correctly!
+
+Maybe it was because I used unallowed libraries","sqlite, but unfortunately it was not allowed. So I refactored my code a lot to only use pandas and sqlalchemy"
+"4","1980-01-01 00:00:00","1","en","279083440","A1","A1","1.5","A2","A2","Keine Probleme mit der Programmiersprache, aber falls ihr Feedback zur Aufgabenstellung wollt:
+In der Aufgabenstellung heißt es, es soll der beste Datentyp ausgewählt werden für jede Spalte. Dies sollte bessere ausgedrückt werden, ob es sich hier um eine manuelle Aufgabe handeln sollte (die Daten einzeln durchgehen und den Datentyp ändern z.B. Integer anfangen und ggf. auf BIGINT updaten falls ein größerer Wert existiert) oder ob  - besonders weil man ja eigentlich über eine automatische Datenpipeline redet - dies während der Laufzeit passieren soll.","/"
+"5","1980-01-01 00:00:00","1","de","1347000557","A1","A1","1","A2","A2","Keine.","Pandas."
+"6","1980-01-01 00:00:00","1","de","1613954544","A2","A1","1.5","A3","A4","In der Dokumentation des TableInterpreters sind die Beispiele anders, als in den Folien -> [columnname] typed / oftype [type]
+Ich habe erst nur in die Onlinedokumentation geschaut und mich gewundert warum ich einen Fehler angezeigt bekommen. Ich weiß nicht ob das vielleicht eine Versionssache ist, also das es sich mit der Zeit geändert hat (ich habe version 0.0.15 verwendet), dann bitte bei der Onlinedokumentation mit angeben auf welche Version der Sprache es sich bezieht","Die vscode Erweiterung war sehr hilfreich, auch wenn ich wegen dem oben genannten problem erst sehr verwirrt war und nicht wusste was ich falsch gemacht habe, evtl. Message mit einbinden wie ""Do you mean oftype instead of typed"" oder ähnliches"
+"7","1980-01-01 00:00:00","1","en","690429861","A2","A1","2.5","A3","A3","None","None"
+"9","1980-01-01 00:00:00","1","de","1732189994","A2","A1","1","A3","A4","","Wenn man die Pipeline ohne Debug-Flag aufruft, wird gar keine Information über aufgetretene Fehler ausgegeben. Ich hatte zwischenzeitlich das Problem, dass gar keine Daten in die Sqlite-Tabelle geschrieben wurden, weil beim Konvertieren der Tabelle der Datentyp einer Spalte fehlerhaft war. Ich habe den Fehler dann zwar schnell gefunden (auch ohne das Debug-Flag), aber der fehlende Output hat mir zuerst suggeriert, dass eigentlich alles in Ordnung ist. Eine kurze Meldung am Ende des Laufs (z.B. ""X errors occurred"") würde diesem Missverständnis vorbeugen.
+"
+"10","1980-01-01 00:00:00","1","de","763266141","A1","A1","3","A4","A3","Das programmieren der Aufgabe war nach der ersten Projektaufgabe sehr einfach und hätte nach meinen Erwartungen nur 20 Minuten gedauert. Ich musst bloß sehr viel Zeit investieren weil ich nicht mehr in der Lage war sqlite Dateien mit dem Befehl DataFrame.to_sql zu öffnen. Die Lösung dafür war das der angegebene Pfad aus einem anderen Startordner ausging. ","Mir hat die Angabe gefehlt das die sqlite Datei ins Hauptverzeichnis muss und nicht in den Exercise Ordner"
+"11","1980-01-01 00:00:00","1","en","1253032135","A1","A1","5","A2","A4","","Python, Pandas and SqlLite"
+"12","1980-01-01 00:00:00","1","en","291683785","A2","A1","5","A4","A5","",""
+"13","1980-01-01 00:00:00","1","en","1732073869","A1","A1","4","A4","A3","","it would be nice if the collum names could be changed without the evaluation breaking"
+"14","1980-01-01 00:00:00","1","de","1203606114","A1","A1","1","A3","A5","None","SQLAlchemy is good enough, I used for the project the sqlite3, which is pretty similar"
+"15","1980-01-01 00:00:00","1","en","862761401","A2","A1","4","A3","A4","What I faced, I have created issue already.","Jayvee is really cool project."
+"16","1980-01-01 00:00:00","1","en","842839402","A1","A1","1","A2","A1","",""
+"17","1980-01-01 00:00:00","1","en","2041553060","A2","A1","1","A2","A4","",""
+"19","1980-01-01 00:00:00","1","en","1397437225","A1","A1","4","A3","A3","",""
+"20","1980-01-01 00:00:00","1","en","402566542","A1","A1","2","A3","A3","",""
+"21","1980-01-01 00:00:00","1","en","1440210258","A1","A1","2","A2","A4","I don't like reading documentation","None that I could think of, the process was rather straightforward."
+"22","1980-01-01 00:00:00","1","en","2056778527","A2","A1","4","A4","A3","I have a problem with the datatype of one column which could be a tuple or list or just an object. I couldn't find what datatypes does the jayvee support for the columns. I just used text and i am not sure if that is the right option, but it seemed to work fine and it appeared correctly in the database.",""
+"24","1980-01-01 00:00:00","1","en","1555978216","A1","A1","1","A2","A3","",""
+"26","1980-01-01 00:00:00","1","en","964213616","A2","A1","2","A3","A3","can not rename the first row (range only seems to work for columns, not for rows)
+no support for advances data types (geodaten was a cell with two comma separated decimals) ","debugger, more functions (change row),"
+"27","1980-01-01 00:00:00","1","en","1929702422","A2","A1","6","A4","A4","To understand the syntax of new language ",""
+"29","1980-01-01 00:00:00","1","de","1360205853","A1","A1","1","A3","A4","-","Es wäre logischer gewesen die Übung vor der ersten Projektarbeit zu machen."
+"30","1980-01-01 00:00:00","1","de","558539811","A2","A1","5","A4","A3","The Documentation was very short of examples and debugging is difficult",""
+"31","1980-01-01 00:00:00","1","de","1754205455","A1","A1","3","A4","A4","Keine.","Keine die mir bekannt wären."
+"32","1980-01-01 00:00:00","1","en","252764161","A2","A1","1","A4","A4","the pipeline did not do the thing is expected and the error messages where bad but with the -d flag i got the explanations i needed, so i could fix it",""
+"33","1980-01-01 00:00:00","1","en","302846230","A1","A1","3","A3","A3","With python I didn't encounter any issues",""
+"34","1980-01-01 00:00:00","1","en","529492295","A1","A1","0.5","A3","A3","Python version and virtual env. Getting a specific Python version to run on my local machine is always tedious.",""
+"35","1980-01-01 00:00:00","1","en","1564089795","A1","A1","3","A4","A4","Renaming the columns for better speaking names was not possible due to the given tests failing after trying that.","-"
+"36","1980-01-01 00:00:00","1","en","1399837541","A1","A1","4","A4","A3","",""
+"39","1980-01-01 00:00:00","1","en","1371836797","A1","A1","4","A4","A4","Some more examples in this would have been helpful.
+Difficulties while checking exercise feedback",""
+"40","1980-01-01 00:00:00","1","en","512590698","A1","A1","1","A4","A3","lack of familiarity with using github!",""
+"42","1980-01-01 00:00:00","1","en","736475011","A1","A1","2","A4","A3","Since I am not too familiar with Python, I ran into some general problems with the programming environment and just generally figuring things out","I barely scratched the surface of the existing ones, others would only confuse me more... There is value in restrictions, I think it is good to only include the 2 libraries at this point"
+"43","1980-01-01 00:00:00","1","en","181741155","A2","A1","4","A3","A4","When using jayvee, I set up the pipline but can't get a valid database. I know the problem is with the tableinterpreter but I don't know which column has the wrong data type, but then I saw the tutor on the forum and said that you can use jv<file> -d check, I successfully found the problem and solved it","It is helpful that the text datatype recognizes both text and numbers in jayvee"
+"44","1980-01-01 00:00:00","1","en","243679279","A1","A1","0.5","A2","A4","",""
+"45","1980-01-01 00:00:00","1","en","969996408","A2","A1","0.5","A2","A1","Can't access online data.","N/A"
+"46","1980-01-01 00:00:00","1","en","238476618","A2","A1","3","A4","A4","",""
+"47","1980-01-01 00:00:00","1","en","313789986","A2","A1","4","A4","A3","understanding how pipeline in Jv works and giving data types to column","provide feedback on datatypes of column"
+

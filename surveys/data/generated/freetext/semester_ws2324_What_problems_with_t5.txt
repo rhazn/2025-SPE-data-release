@@ -1,0 +1,12 @@
+# What problems with the programming language did you encounter during this exercise?
+
+## Jayvee
+
+Hi, nothing special. The exercise was pretty easy as it was 90% similar to one of the examples in the Javee documentation. The only problem I had was that for several times the HTTPExtracter couldn't fetch the zip file. But then it was OK. It said to check the internet connection, but internet was OK.
+-----------
+Debugging
+-----------
+## Python
+
+Using the urllib.request.urlretrieve tip it was rather straight forward. Most of the demanded transformations were already part of a previous exercise in some form and therefore easy to incorporate.
+-----------

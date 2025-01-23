@@ -1,0 +1,37 @@
+﻿"id","submitdate","lastpage","startlanguage","seed","P1","P2","E1","E2","E3","F1","F2"
+"1","1980-01-01 00:00:00","1","de","1970148820","A2","A1","1","A3","A3","Beim Löschen/Auswählen von Zeilen/Spalten konnten immer nur bestimmte Range-Operatoren verwendet werden. Das das Entfernen von Werten erschwert.",""
+"2","1980-01-01 00:00:00","1","en","971179064","A2","A1","2","A4","A3","",""
+"3","1980-01-01 00:00:00","1","en","193605544","A1","A1","3.5","A4","A4","It took me some finagling to figure out how to import the second column as a string to preserve leading zeros.",""
+"4","1980-01-01 00:00:00","1","de","1357263587","A2","A1","5","A6","A1","No knowledge in jayvee","N/A"
+"5","1980-01-01 00:00:00","1","en","1561933655","A2","A1","4","A5","A3","None","If I could do the problem using Python, I could solve it quickly."
+"6","1980-01-01 00:00:00","1","en","2086936108","A2","A1","2.5","A5","A4","difficulty to drop multiple columns in one block","There should be a way to rename multiple cells (especially headers) in one step, f.e. input list of indices and list of new values for the update. |indices_list| = |update_values_list|
+
+-> update accordingly, in pandas f.e. this is possible and very useful
+
+If there is a column deleter, it should also work with lists of columns"
+"7","1980-01-01 00:00:00","1","en","891830080","A2","A1","4","A5","A4","Couldnt figure out how to select only the columns i wanted without deleting every column individually. Also would have needed more detailed documentation and more examples in the docu. Also it was not clear which encoding type the textfileinterpreter allows.","In the columndeleter block: a range option
+In the textfileinterpreter block: docu should specify which encodings are allowed"
+"8","1980-01-01 00:00:00","1","en","841365344","A2","A1","3","A3","A3","if introduction of the function of jayvee is clear
+return better",""
+"9","1980-01-01 00:00:00","1","en","1390656486","A2","A1","3","A5","A3","For me it wasn't clear from the beginning that the TableInterpreter also accepts only a subset of the columns to just use them, maybe make this feature clearer in the documentation","Being able to select ranges in the ColumDeleter and RowDeleter (even if i didn't used them)
+In the text range selector (and also in other blocks) being able to give the ""row number from the bottom"" like -2 for the second last row"
+"10","1980-01-01 00:00:00","1","de","1315087235","A2","A1","3","A4","A3","1) es war schwierig, die letzten Zeilen zu löschen
+2) es war schwierig, nur einen kleinen Teil der Columns zu behalten","1) die Möglichkeit, (vor)letzte Zeilen zu löschen
+2) die Möglichkeit, eine Range von Columns zu löschen"
+"11","1980-01-01 00:00:00","1","de","1831299481","A1","A1","5","A4","A3","",""
+"12","1980-01-01 00:00:00","1","en","399661803","A1","A1","3","A4","A4","",""
+"13","1980-01-01 00:00:00","1","de","821150519","A1","A1","2","A3","A4","",""
+"14","1980-01-01 00:00:00","1","en","1681208574","A2","A1","5","A6","A1","NO JAYVEE","NO JAYVEE"
+"15","1980-01-01 00:00:00","1","en","1598809912","A2","A1","3","A4","A4","",""
+"16","1980-01-01 00:00:00","1","en","1861962759","A2","A1","4","A3","A4","jayvee doesn't have option to write range in list",""
+"17","1980-01-01 00:00:00","1","en","976823836","A2","A1","1.5","A4","A4","","One feature I'd want to see in jayvee is writing at multiple cells in a single block even if they're not in succession
+for example:
+block CarsRenameCols oftype CellWriter {
+        at: [A1, W1, AQ1] ;
+        write: [""date"", ""CIN"", ""name""];
+    }"
+"18","1980-01-01 00:00:00","1","de","204625132","A1","A1","3","A4","A2","","Ich weiß nicht ob die strings libary erlaubt ist"
+"19","1980-01-01 00:00:00","1","en","867717753","A1","A1","3","A4","A4","",""
+"20","1980-01-01 00:00:00","1","de","334478639","A2","A1","4","A5","A3","Die Spalten Löschung war umständlich.","Eine Range für Spaltenlöschung, die spalten auslässt."
+"21","1980-01-01 00:00:00","1","en","1979877899","A2","A1","2","A4","A3","Not enough choice of block/ functionality to choose for the correct usage.","for Jayvee, something like ColumnSelector which uses collection as the property "
+

@@ -1,0 +1,4 @@
+**/pii/**
+.DS_Store
+__pycache__
+*.whisper

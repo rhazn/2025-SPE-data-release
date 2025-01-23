@@ -1,0 +1,65 @@
+﻿"id","submitdate","lastpage","startlanguage","seed","P1","P2","E1","E2","E3","F1","F2"
+"1","1980-01-01 00:00:00","1","en","2055736403","A1","A1","2","A4","A3","",""
+"2","1980-01-01 00:00:00","1","de","1835006286","A2","A1","1","A3","A3","","Das man beim Cell Writer mehrere Spalten auf einmal ändern kann "
+"3","1980-01-01 00:00:00","1","en","2009886545","A2","A1","2","A3","A4","Can we please get a RangeConstraint for integer types as well? It would be handy for validating dates.","It would be quite handy if there was a way to apply a transform to multiple columns or a range of columns at once, instead of being limited to only one column."
+"4","1980-01-01 00:00:00","1","en","1570276077","A2","A1","3","A2","A4","One issue was in the docs but it was resolved quickly. But in general it would nice to see a pipeline in the docs which uses the transforms with the block. I looked up in GitHub how it is used because I felt that I needed some more context. ","tbh after I had the solution I was impressed how easy the pipeline is and how straightforward transforming values are."
+"5","1980-01-01 00:00:00","1","de","1327995305","A1","A1","3","A4","A4","Beim zip file richtig extrahieren, welche Methode am besten verwendet wird und welche Daten man validieren kann/soll.",""
+"6","1980-01-01 00:00:00","1","de","198238074","A1","A1","3","A3","A4","Die Dokumentation der read_csv-Methode in pandas enthält keine gute Beschreibung, wie man nur die ersten Spalten jeder Zeile einliest. ",""
+"7","1980-01-01 00:00:00","1","de","451883374","A2","A1","4","A6","A1","    constraint ValidDeviceID oftype RangeConstraint {
+        lowerBound: 1;
+        lowerBoundInclusive: true;
+        upperBound: 999;
+        upperBoundInclusive: true;
+       as: Integer // implement me!
+    }
+--> Sobald ein RangeConstraint gesetzt wird, wird der Wert als Dezimal gesehen. Dies finde ich unschön, es sollte es Möglichkeit geben den Typ ""decimal"" oder ""integer"" auszuwählen, anstatt einfach immer decimal zu nehmen, weil so letztlich auch keine sinnvoll Validierung möglich ist (nur vollständige Werte)
+---------------------------
+    block ZipArchiveInterpreter oftype ArchiveInterpreter {
+    archiveType: ""zip"";
+}
+
+
+block TemperaturesFilePicker oftype FilePicker {
+  path: ""/data.csv"";
+}
+
+Das Nutzen dieser Kombination gehört definitiv in die Dokumentation, ich fand es nicht gerade selbsterklärend anhand der Dokumentation.
+--------------
+- Die simple Transformation von decimal zu integer ist viel zu umständlich meiner Meinung nach
+
+
+","    block CelsiusToFahrenheitTransformer_Batterie oftype TableTransformer {
+    inputColumn: 'Batterietemperatur';
+    outputColumn: 'Batterietemperatur';
+    use: CelsiusToFahrenheit;
+    remove: True // implement me!
+    }
+- Mittels remove soll entschieden werden können, ob die inputColumn entfernt werden soll nach der Transformation
+-------------------------------------------
+    block TemperaturesTableInterpreter oftype TableInterpreter {
+        header: true;
+        columns: [
+            ""Geraet""  oftype DeviceID,
+            ""Temperatur in ..."" --> ""Temperatur"" oftype decimal,
+            ""Hersteller"" oftype text,
+             ....
+        ];
+    }
+- Über den TableInterpreter sollte es möglich sein die Spaltennamen zu ändern mittels  currentName --> newName oftype decimal.
+Ob header true oder false ist dürfte egal sein bei der Implementierung des features 
+-------------------
+- deleteColumn mit input und output type Table"
+"8","1980-01-01 00:00:00","1","en","1794450371","A2","A1","2","A4","A4","lack of enough jayvee documentation available online. I know its very new and still developing and that is one of the cons!",""
+"9","1980-01-01 00:00:00","1","de","1918720728","A1","A1","3","A4","A4","None","Normal libs"
+"10","1980-01-01 00:00:00","1","de","150872710","A2","A1","3","A4","A3","Es war etwas umständlich die Columns umzubenennen wie es in der Aufgabenstellung gefordert war. Evtl. würde hier eine weitere API -Funktion mehr Komfort schaffen :)",""
+"11","1980-01-01 00:00:00","1","en","617699794","A2","A1","2","A5","A2","",""
+"12","1980-01-01 00:00:00","1","en","2081761581","A1","A1","1.5","A3","A4","",""
+"13","1980-01-01 00:00:00","1","de","1653161437","A1","A1","2","A4","A3","when reading in the data, pandas really wanted to create a MultiIndex and it was had to prevent it from doing so...",""
+"14","1980-01-01 00:00:00","1","en","618918718","A2","A1","2","A3","A3","","It would be nice to have default blocks, for example: I use the  TextFileInterpreter without any arguments but still have to define it and cant use TextFileInterpreter in the pipeline without writing a block for it.  "
+"15","1980-01-01 00:00:00","1","en","1647538213","A1","A1","4","A4","A4","exercise feedback for shape returns invalid even if columns shape is 7 (as it should)",""
+"16","1980-01-01 00:00:00","1","en","1099170898","A2","A1","2","A3","A4","",""
+"17","1980-01-01 00:00:00","1","en","157765862","A1","A1","2.5","A4","A4","",""
+"18","1980-01-01 00:00:00","1","en","432084175","A1","A1","2","A4","A3","None","None"
+"19","1980-01-01 00:00:00","1","en","1471116363","A2","A1","3","A3","A4","The code was not highlighted correctly in VSCode with some functions (as if they do not exist)",""
+"21","1980-01-01 00:00:00","1","en","1201700653","A1","A1","4","A5","A4","",""
+
