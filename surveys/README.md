@@ -2,7 +2,7 @@
 
 - [Exercise descriptions](./AMSEHomework.pdf)
 - exercise-sources: backup of the data used in the exercises
-- data: raw exported data from the surveys
+- data: raw exported data from the surveys (Please note, some interview answers are in German because the module is offered at a German university. The authors are native speakers of German.)
 - generated: generated summary files for the free text input questions
 - cleaned: cleaned answers for the free text input questions, removed empty / none responses
 - figures: generated figures from notebooks

@@ -1,3 +1,3 @@
 # Jayvee Example
 
-- Example Jayvee model
+- [example.jv](./example.jv) is an example Jayvee model.
